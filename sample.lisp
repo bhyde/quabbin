@@ -36,7 +36,7 @@
 
 #|
 
-;; test
+;; this example depends on drakma and split-sequence
 
 (defvar *test-url* "http://www.gutenberg.org/dirs/etext91/roget15a.txt")
 
