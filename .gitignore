@@ -1,0 +1,8 @@
+# Things we want to ignore
+
+# Emacs backups, but not emacs lock files #...
+*~
+
+# Fasl files, of openmcl, and sbcl
+*fsl
+*fasl

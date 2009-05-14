@@ -1,0 +1,6 @@
+Named after the Quabbin Reservoir[1] this illustrates reservoir sampling[2] in Common Lisp.  I.e. given a window on one element of a stream of unknown length it will draw off a random sample of size N elements.
+
+This code is meant more for reading than using.
+
+[1] http://www.mass.gov/dcr/parks/central/quabbin.htm
+[2] http://www.google.com/search?q=reservoir+sampling
